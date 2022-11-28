@@ -1,4 +1,4 @@
-### 반갑다. 👋
+### 반갑다👋
 
 <!--
 **soomin-world/soomin-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
