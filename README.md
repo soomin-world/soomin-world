@@ -1,6 +1,8 @@
 ### Hi there👋
 
-- 🌱 I’m currently learning ...REACT
+- 🐣 코딩공부중인 병아리입니다 🐣
+- 🤔 github 어려워요 js 어려워요 react어려워요 😂
+- ⛳ 저도 잔디 심고 싶습니다⛳
 <!--
 **soomin-world/soomin-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
